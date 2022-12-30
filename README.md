@@ -20,7 +20,7 @@
 
 <p align="left" style="background:black">
  <a href="mailto:luizmourareges@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luizmourareges-05122A?style=flat&logo=gmail" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-luizmourareges-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 <a href="https://linkedin.com/in/luiz-moura-23b8921a4/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-luizmoura-05122A?style=flat&logo=linkedin" alt="linkedin"/>
