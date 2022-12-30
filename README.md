@@ -6,7 +6,7 @@
 
 <br><br>
 
-## Contato
+## Contact
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/luiz-moura-23b8921a4/" target="_blank">
