@@ -16,7 +16,7 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/luiz-moura-23b8921a4/" target="self">
+<a href="https://linkedin.com/in/luiz-moura-23b8921a4/" target="blank">
   <img align="center" src="https://img.shields.io/badge/-luizmoura-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/louizmoura" target="_blank">
