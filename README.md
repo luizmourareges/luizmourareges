@@ -11,7 +11,7 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmourareges&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
  </div>
 
-<br><br>
+<br>
 
 ## Contact
 
