@@ -1,6 +1,10 @@
 <h1 align="left">Hi everyone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Luiz Moura</h1>
 
-🎯 I’m currently learning **HTML, CSS, JAVASCRIPT** 
+🎯 I’m currently learning: <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+</ul>
 
 <br>
 
