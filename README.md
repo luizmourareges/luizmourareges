@@ -16,6 +16,6 @@
  <img align="center" src="https://img.shields.io/badge/-luizmoura-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
   <a href="https://twitter.com/louizmoura" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luizmora-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-luizmoura-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 </p>
