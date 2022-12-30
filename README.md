@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
 - 📫 How to reach me: @luizmourareges
 
+<br>
 
 <div align="center">
 <a href="https://github.com/luizmourareges">
