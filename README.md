@@ -1,16 +1,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Luiz Moura</h1>
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**                                                                                                                      
-- 📫 How to reach me: @luizmourareges                                                                                                                                     
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
+- 📫 How to reach me: @luizmourareges
  
 <br>
 
 <div align="center">
 <a href="https://github.com/luizmourareges">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmourareges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmourareges&layout=compact&langs_count=7&theme=dracula"/>
-  
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmourareges&layout=compact&langs_count=7&theme=dark"/>
+ </div>
 
 <br><br>
 
