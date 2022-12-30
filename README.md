@@ -15,7 +15,7 @@
 ## Contact
 
 <p align="left" style="background:black">
- <a href="https://gmail.com/mail/u/1/#inbox/" target="_blank">
+ <a href="luizmourareges@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-luizmourareges-05122A?style=flat&logo=gmail" alt="linkedin"/>
 </a>
 <a href="https://linkedin.com/in/luiz-moura-23b8921a4/" target="_blank">
