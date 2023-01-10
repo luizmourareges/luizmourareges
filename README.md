@@ -15,8 +15,11 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmourareges&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
  </div>
 
-<br>
-
+<br> 
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizmourareges&label=Profile%20views&color=22303f&style=flat" alt="luizmourareges" /> </p>
+  
+  
 ## Contact
 
 <p align="left" style="background:black">
