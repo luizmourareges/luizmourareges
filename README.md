@@ -4,7 +4,8 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JAVASCRIPT</li>
+  <li>JavaScript</li>
+  <li>UX/UI Design</li>
 </ul>
 
 <br>
