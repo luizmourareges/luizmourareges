@@ -18,7 +18,7 @@
 
 <br> 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizmourareges&label=Profile%20views&color=orange&style=for-the-badge" alt="luizmourareges" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizmourareges&label=Profile%20views&color=orange&style=for-the-badge" alt="luizmourareges"/></p>
   
   
 ## Contact
