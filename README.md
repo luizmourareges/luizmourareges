@@ -1,4 +1,4 @@
-<h1 align="left">Hi everyone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Luiz Moura</h1>
+<h1 align="left">Hi everyone, I'm Luiz Moura 😎</h1>
 
 🎯 I’m currently learning:
 <ul>
