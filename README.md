@@ -18,19 +18,19 @@
 
 <br> 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizmourareges&label=Profile%20views&color=important&style=for-the-badge" alt="luizmourareges" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizmourareges&label=Profile%20views&color=orange&style=for-the-badge" alt="luizmourareges" /> </p>
   
   
 ## Contact
 
 <p align="left" style="background:black">
  <a href="mailto:luizmourareges@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luizmourareges-inactive?style=for-the-badge&logo=gmail" alt="gmail"/>
+  <img align="center" src="https://img.shields.io/badge/-luizmourareges-inactive?color=black&style=for-the-badge&logo=gmail" alt="gmail"/>
 </a>
 <a href="https://linkedin.com/in/luiz-moura-23b8921a4/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luizmoura-inactive?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-luizmoura-inactive?color=black&style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/louizmoura" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-louizmoura-inactive?style=for-the-badge&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-louizmoura-inactive?color=black&style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
 </p>
