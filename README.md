@@ -18,9 +18,10 @@
 
 <br> 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizmourareges&label=Profile%20views&color=orange&style=for-the-badge" alt="luizmourareges"/></p>
-  
-  
+
+<img src="https://komarev.com/ghpvc/?username=luizmourareges&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="luizmourareges"/>
+
+
 ## Contact
   
 <a href="https://linkedin.com/in/luiz-moura-23b8921a4/">
