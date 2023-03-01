@@ -22,15 +22,15 @@
   
   
 ## Contact
-
-<p align="left" style="background:black">
- <a href="mailto:luizmourareges@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luizmourareges-inactive?color=black&style=for-the-badge&logo=gmail" alt="gmail"/>
+  
+<a href="https://linkedin.com/in/luiz-moura-23b8921a4/">
+  <img align="center" src=https://img.shields.io/badge/linkedin-1E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
 </a>
-<a href="https://linkedin.com/in/luiz-moura-23b8921a4/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luizmoura-inactive?color=black&style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  
+<a href="mailto:luizmourareges@gmail.com">
+  <img align="center" src=https://img.shields.io/badge/gmail-c71610.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail/>
 </a>
-<a href="https://instagram.com/louizmoura" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-louizmoura-inactive?color=black&style=for-the-badge&logo=instagram" alt="instagram"/>
+  
+<a href="https://instagram.com/louizmoura">
+ <img align="center" src=https://img.shields.io/badge/instagram-8134af.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
 </a>
-</p>
