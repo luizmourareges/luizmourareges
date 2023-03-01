@@ -32,5 +32,5 @@
 </a>
   
 <a href="https://instagram.com/louizmoura">
- <img align="center" src=https://img.shields.io/badge/instagram-8134af.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
+ <img align="center" src=https://img.shields.io/badge/instagram-7017ff.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
 </a>
